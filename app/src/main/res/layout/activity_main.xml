@@ -68,7 +68,7 @@
         app:layout_constraintGuide_percent="0.6569343" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/btn_ring"
         android:layout_width="105dp"
         android:layout_height="115dp"
         android:layout_marginTop="4dp"
@@ -98,7 +98,7 @@
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
 
     <Button
-        android:id="@+id/btn_aracde"
+        android:id="@+id/btn_arcade"
         android:layout_width="94dp"
         android:layout_height="95dp"
         android:text="Arcade"
